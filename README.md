@@ -33,11 +33,11 @@
    </td>
    <td>
        <ol>
-        <li>parkingspaces (returns an array of parking space objects in the lot)</li>
-        <li>names_parkingspaces (returns an array of names of parking space objects)</li>
+        <li>parkingspaces (returns array of parking space objects in the lot)</li>
+        <li>names_parkingspaces (returns array of names of parking space objects)</li>
        </ol>
   </td>
-  <td>Parkinglot (returns the parking lot to which it belongs to)</td>
+  <td>parkinglot (returns the parking lot to which it belongs to)</td>
  </tr>
 </table>
 
@@ -53,11 +53,11 @@
   </tr>
   <tr>
     <td>seeddata_ParkingLot.rb</td>
-    <td>Seed data that was loaded to ensure clases work as expected</td> 
+    <td>Seed data that was loaded to ensure classes work as expected</td> 
   </tr>
     <tr>
     <td>test_ParkingLot.rb</td>
-    <td>Units tests written in MiniTest</td> 
+    <td>Unit tests written in MiniTest</td> 
   </tr>
     <tr>
     <td>testdata_ParkingLot.rb</td>
