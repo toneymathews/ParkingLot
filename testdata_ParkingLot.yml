@@ -1,0 +1,22 @@
+- Parking_Lot_1
+- Parking_Lot_2
+- Parking_Level_11
+- Parking_Level_12
+- Parking_Level_13
+- Parking_Level_21
+- Parking_Level_31
+- Parking_Space_111
+- Parking_Space_112
+- Parking_Space_123
+- Parking_Space_131
+- Parking_Space_211
+- Parking_Space_212
+- Parking_Space_213
+- Parking_Space_311
+- Parking_Space_312
+- Parking_charges:
+  Uptill 1 hour: 10
+  1 - 3 hours: 7.5
+  3+ hours: 5
+  Whole day(12 hours): 40
+  Monthly: 200
